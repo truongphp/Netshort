@@ -13,13 +13,13 @@ const subscriptionData = {
   "billing_issues_detected_at": null,
   "period_type": "normal",
   "expires_date": "2099-12-31T23:59:59Z",
-  "purchase_date": "2024-01-01T00:00:00Z",
+  "purchase_date": "2026-02-03T00:00:00Z",
   "store": "app_store"
 };
 
 const entitlementData = {
   "grace_period_expires_date": null,
-  "purchase_date": "2024-01-01T00:00:00Z",
+  "purchase_date": "2026-02-03T00:00:00Z",
   "product_identifier": "com.premium.yearly",
   "expires_date": "2099-12-31T23:59:59Z"
 };
